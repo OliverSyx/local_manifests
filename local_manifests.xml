@@ -10,6 +10,6 @@
         <project path="kernel/xiaomi/mojito" name="OliverSyx/android_kernel_xiaomi_mojito" remote="mojito" revision="lineage-20.0" />
 
         <!-- Sync Keys -->
-        <project path="vendor/private/keys" name="device-xti/android_vendor_private_keys" remote="mojito" revision="lineage-20.0" />
+        <project path="vendor/private/keys" name="OliverSyx/android_vendor_private_keys" remote="mojito" revision="lineage-20.0" />
 
 </manifest>
